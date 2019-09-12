@@ -850,7 +850,7 @@
                     $("input#" + $imgClass).click();
                 }
 
-                $(this).find('.img-preview').css('background', 'green');
+                $(this).find('.img-preview').parent().css('background', '#0080007a');
             });
             /*****      TAb script        ****/
             $('button.tab').on('click', function () {

@@ -68,15 +68,15 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a id="" class="nav-link" href="#" role="button"
-                               aria-haspopup="true" aria-expanded="false" v-pre>
-                                Mes projets <span class="caret"></span>
-                            </a>
-                        </li>
-                        <li class="nav-item dropdown">
                             <a href="{!! route('devis') !!}" id="" class="nav-link" href="#" role="button"
                                aria-haspopup="true" aria-expanded="false" v-pre>
                                 Mes devis <span class="caret"></span>
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a id="" class="nav-link" href="#" role="button"
+                               aria-haspopup="true" aria-expanded="false" v-pre>
+                                Mes projets <span class="caret"></span>
                             </a>
                         </li>
                         <li class="nav-item dropdown">
